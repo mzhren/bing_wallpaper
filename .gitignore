@@ -1,0 +1,4 @@
+node_modules/*
+wallpapers/**/*.jpg
+wallpapers/**/*.png
+wallpapers/**/*.jpeg
